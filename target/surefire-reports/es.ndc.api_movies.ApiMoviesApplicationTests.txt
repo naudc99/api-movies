@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: es.ndc.api_movies.ApiMoviesApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.79 s -- in es.ndc.api_movies.ApiMoviesApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.09 s -- in es.ndc.api_movies.ApiMoviesApplicationTests
